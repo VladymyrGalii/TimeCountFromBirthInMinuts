@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Your Age in Minutes</string>
+    <string name="calculate_your">CALCULATE YOUR</string>
+    <string name="age">AGE</string>
+    <string name="in_minutes">IN MINUTES</string>
+    <string name="select_date">Selected date</string>
+    <string name="age_in_minute">Age in minute</string>
+    <string name="toast_message">Hello</string>
+    <string name="toast_message_day_selected_date">I don\'t now yet</string>
+    <string name="set_data_not_null">Please choice date</string>
+</resources>
